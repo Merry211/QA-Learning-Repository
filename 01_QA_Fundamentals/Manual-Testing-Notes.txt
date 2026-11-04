@@ -1,0 +1,16 @@
+QA LEARNING NOTES
+
+Topic: Manual Testing
+
+Definition:
+Manual Testing is a software testing
+process where testers execute test cases
+without using automation scripts.
+
+Objectives:
+1. Identify software defects.
+2. Verify application functionality.
+3. Validate business requirements.
+4. Ensure software quality.
+
+Status: Learning in Progress
